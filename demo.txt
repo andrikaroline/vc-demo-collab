@@ -7,3 +7,4 @@ Input 2 to main branch by collaborator
 Input 2 to main branch by admin
 
 Input 1 to admin-br by admin
+Input 2 to admin-br by admin
