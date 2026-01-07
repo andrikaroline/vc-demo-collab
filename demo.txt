@@ -6,11 +6,10 @@ Input 2 to main branch by collaborator
 
 Input 2 to main branch by admin
 
-<<<<<<< HEAD
 Input 1 to admin-br by admin
 Input 2 to admin-br by admin
-=======
 Input 1 to collab-br by collaborator
 
 Input 2 to collab-br by collaborator
->>>>>>> collab-br
+
+Input 3 to main by admin - this is a critical point, but it is going to be overwritten by collaborator by merging to main
